@@ -9,7 +9,9 @@
  +2. Item Two
 
 ## table
-|Week | Course Content |
+
+| Week | Course Content |
 |------------ | ------------- |
 |Week1 | How to console the results |
 |Week2 | How to use the Github |
+
