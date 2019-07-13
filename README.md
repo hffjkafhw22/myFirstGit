@@ -1,7 +1,8 @@
 # myFirstGit
 ## git vision control
 **This project is purpose to teach how to use github in the daily studying.**
-### https://google.com “This is google”
+###Link
+ [This is google](https://google.com)
 
 First Header | Second Header 
 ------------ | ------------- 
